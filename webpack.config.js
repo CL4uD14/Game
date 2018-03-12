@@ -5,7 +5,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   devtool: 'cheap-eval-source-map',
   entry: {
-    main: ['whatwg-fetch', path.join(__dirname, 'js', 'redux.jsx')]
+    main: path.join(__dirname, 'js', 'app.jsx')
   },
   output: {
     path: path.join(__dirname, 'dist'),

@@ -1,0 +1,42 @@
+body {
+	background: #fff;
+}
+
+.background {
+	table-layout: fixed;
+	border-spacing: 0;
+}
+
+.lava {
+	background: #e55;
+}
+
+.wall {
+	background: #7ADD52;
+	box-sizing: content-box;
+}
+
+.actor {
+	position: absolute;
+}
+
+.coin {
+	background: #FFD700;
+	border-radius: 50%;
+}
+
+.player {
+	background: #6f31ef;
+}
+
+.lost .player {
+	background: #930009;
+}
+
+.won .player {
+	background: #f4b5dc;
+}
+
+.game {
+	position: relative;
+}
