@@ -1,2 +1,3 @@
-A simple platform game created as a final project. At first it was meant to be written in React but for the game I decided to use Vanilla JS and some basic CSS instead.
-Further steps are to improve graphic layout.
+A simple platform game created as a final project of coding bootcamp. Written in Vanilla JS and some basic CSS.
+
+**Click [here](https://cl4ud14.github.io/Game/) for preview**
